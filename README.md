@@ -1,9 +1,8 @@
-[![MasterHead](https://www.ukraineitnow.com/wp-content/uploads/2019/10/flutter_banner.jpg)]
+![MasterHead](https://www.ukraineitnow.com/wp-content/uploads/2019/10/flutter_banner.jpg)
 <h1 align="center">Hi 👋, I'm Abdallah Al-Samhouri</h1>
 <h3 align="center">A passionate flutter junior developer</h3>
 <img align="right" alt="Coding" width="400" src="https://developers.giphy.com/branch/master/static/why_4-dbf60f160acb0c6f22c6260bd3a8c6b5.gif">
-- 🌱 I’m currently learning **Flutter,Node-JS**
-
+- 🌱 I’m currently learning (Flutter,Node-JS)
 - 📫 Reach me On: **abdallhsamhouri@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
